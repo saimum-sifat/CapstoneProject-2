@@ -5,11 +5,13 @@ html {
 body {
   /* display: block; */
   margin: 0;
+  background-color: #c0eede;
 }
 
 main > section {
   max-width: 1200px;
   margin: 0 auto;
+  padding: 25px 0;
 }
 
 .nav {
@@ -288,3 +290,4 @@ footer {
     font-size: 3rem;
   }
 }
+
